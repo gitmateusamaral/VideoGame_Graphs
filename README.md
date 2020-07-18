@@ -1,4 +1,4 @@
-# Gráficos Videogame – Mateus Amaral
+# Gráficos sobre o mercado de jogos – Mateus Amaral
 
 ## Sobre a base de dados:
 
