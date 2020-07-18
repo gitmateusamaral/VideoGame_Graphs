@@ -134,7 +134,7 @@ observações ficam naquela região encontrada no gráfico de densidade e ver qu
 quando uma das avaliações é alta a outra também costuma ser. Com isso, é possível reunir todas
 essas informações e apresentar em um só gráfico sem deixar ele confuso ou difícil de visualizar.
 
-**OBS3: Todas as cores utilizadas nos gráficos foram escolhidas dentro do Color Brewer 2.**
+**OBS3: Todas as cores utilizadas nos gráficos foram escolhidas dentro do [Color Brewer 2.0](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).**
 
 **OBS4: Essa base de dados, por ser “antiga”, possui alguns dados que acabam não batendo com
 os encontrados atualmente, um exemplo disso é o jogo GTA V que recentemente alcançou a
